@@ -1,3 +1,6 @@
+appsettings.json
+appsettings.Development.json
+
 # Prerequisites
 *.d
 
